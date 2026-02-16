@@ -1,1 +1,2 @@
-"# architecture-medikamente" 
+# Описание проектной работы 10 спринта
+ 
