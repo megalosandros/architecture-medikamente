@@ -11,3 +11,13 @@
 
 ---
 
+## Задание 2. Проектирование решения "Privacy by Design"
+
+[Задание выполнено в папке **Task2**](Task2)
+
+1. [Обновленная диаграмма "TO-BE"](Task2/privacy_by_design_tobe.png)
+2. [Описание решения](Task2/privacy_by_design_architecture.md)
+
+
+
+---
