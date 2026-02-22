@@ -19,5 +19,15 @@
 2. [Описание решения](Task2/privacy_by_design_architecture.md)
 
 
+---
+
+
+## Задание 3. Оценка Data Encryption at Rest and In Transit
+
+
+[Задание выполнено в папке **Task3**](Task3)
+
+1. [Стратегия защиты данных](Task3/data_protection_strategy.md)
+
 
 ---
